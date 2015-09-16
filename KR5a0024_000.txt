@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 元始天尊説生天得道經
-#+DATE: 2015-08-28 23:35:05
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:35:04.760038
+#+TITLE: 元始天尊說升天得道經
+#+PROPERTY: DZID  DZ0024
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，1—806 一卷 洞真部本文類
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
