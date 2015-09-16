@@ -1,8 +1,8 @@
 # -*- mode: mandoku-view -*-
-#+TITLE: 元始天尊説生天得道經
+#+TITLE: 元始天尊說升天得道經
 #+DATE: 2015-08-28 23:35:05
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS ZTDZ
 #+PROPERTY: JUAN 0
-
+<md:KR5a0024_HFL_001-001a>¶<pb:KR5a0024_SJB_001-010806a>
 
